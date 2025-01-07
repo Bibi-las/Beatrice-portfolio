@@ -25,7 +25,7 @@ You can view the live site at: [Beatrice Portfolio](https://Bibi-las.github.io/B
 ## 📂 Repository Structure
 ```
 Beatrice-portfolio/
-├── MyResume.html      # Main entry point for the website
+├── index.html      # Main entry point for the website
 ├── style.css          # Custom CSS styles
 ├── images/            # Images used in the portfolio
 ├── links/             # Sub-projects linked from the main portfolio
@@ -53,7 +53,7 @@ To run the project locally:
    ```bash
    cd Beatrice-portfolio
    ```
-3. Open `MyResume.html` in your browser to view the site locally.
+3. Open `index.html` in your browser to view the site locally.
 
 ## 🤝 Contributing
 
